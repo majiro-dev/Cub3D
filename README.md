@@ -8,7 +8,6 @@ Cub3D is a 3D game project developed as part of the curriculum at the **42** pro
 - **Player Movement**: Move the player within the 3D environment.
 - **Minimap**: Display a minimap of the environment.
 - **Collision Detection**: Detect and handle collisions with walls.
-- **Hooks**: Handle keyboard and mouse input.
 - **Bonus Features**: Additional features like cursor hooks and minimap display.
 
 ## Installation
