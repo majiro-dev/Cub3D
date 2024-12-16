@@ -83,7 +83,7 @@ MLX42 = ./MLX42/
 
 DEPENDENCIES_MAC = $(MLX42_LIB) -framework Cocoa -framework OpenGL -framework IOKit
 
-DEPENDENCIES_LINUX = /home/cristian/42/42_Cub3D/MLX42/build/libmlx42.a -Iinclude -ldl -lglfw -pthread -lm
+DEPENDENCIES_LINUX = $(MLX42_LIB) -Iinclude -ldl -lglfw -pthread -lm
 
 INC_MLX = $(MLX42)/include
 

@@ -1,13 +1,7 @@
-NO /home/cristian/42/42_Cub3D/assets/textures/redbrick.png
-SO /home/cristian/42/42_Cub3D/assets/textures/redbrick.png
-
-WE         /home/cristian/42/42_Cub3D/assets/textures/bluestone.png
-
-
-
-EA /home/cristian/42/42_Cub3D/assets/textures/bluestone.png
-
-
+NO ./assets/textures/redbrick.png
+SO ./assets/textures/BrickWall.png
+WE ./assets/textures/bluestone.png
+EA ./assets/textures/colorstone.png
 
 F 20,20,190
 

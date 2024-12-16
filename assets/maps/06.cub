@@ -1,11 +1,15 @@
-NO /Users/manujime/repos/cursus/4/cub3d/assets/textures/bluestone.png
-SO /Users/manujime/repos/cursus/4/cub3d/assets/textures/Brickwall3_Texture.png
-
-WE         /Users/manujime/repos/cursus/4/cub3d/assets/textures/redbrick.png
+NO ./assets/textures/bluestone.png
 
 
+SO ./assets/textures/BrickWall.png
 
-EA /Users/manujime/repos/cursus/4/cub3d/assets/textures/colorstone.png
+
+WE                ./assets/textures/redbrick.png
+
+
+
+
+EA ./assets/textures/colorstone.png
 
 
 
