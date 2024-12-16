@@ -1,5 +1,3 @@
-Still building the workspace index, response may be less accurate.
-
 # Cub3D
 
 Cub3D is a 3D game project developed as part of the curriculum at the **42** programming school. It is a simple 3D game engine that uses raycasting to render a 3D environment from a 2D map.
